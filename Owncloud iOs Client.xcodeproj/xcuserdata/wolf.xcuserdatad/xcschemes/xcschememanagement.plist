@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>OC Share Sheet.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Owncloud iOs Client.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>ownCloudExtApp.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>ownCloudExtAppFileProvider.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1324297715ADBB3700DF823E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>132429AC15ADBB3800DF823E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EA6606941AA767F700BA2C65</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EAB0AB3119ED356A00764C31</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EAB0AB3F19ED356A00764C31</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
